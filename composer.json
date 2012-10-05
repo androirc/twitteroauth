@@ -1,0 +1,19 @@
+{
+    "name": "madalynn/twitteroauth",
+    "type": "library",
+    "description": "",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Abraham Williams",
+            "email": "abraham@abrah.am"
+        },
+        {
+            "name": "Julien Brochet",
+            "email": "mewt@madalynn.eu"
+        }
+    ],
+    "autoload": {
+        "psr-0": { "OAuth": "twitteroauth/" }
+    }
+}
