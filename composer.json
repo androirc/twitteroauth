@@ -1,7 +1,7 @@
 {
     "name": "madalynn/twitteroauth",
     "type": "library",
-    "description": "",
+    "description": "The first PHP Library to support OAuth for Twitter's REST API.",
     "license": "MIT",
     "authors": [
         {
